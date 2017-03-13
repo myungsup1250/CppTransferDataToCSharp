@@ -1,0 +1,11 @@
+﻿  writeMemory.cpp
+  SDK.cpp
+c:\users\zhangheng\desktop\数据交互\cpptoc#\cppdatatransferdll\cppdatatransferdll\sdk.cpp(7): warning C4305: “参数”: 从“double”到“float”截断
+  DLL.cpp
+  ClassDef.cpp
+c:\users\zhangheng\desktop\数据交互\cpptoc#\cppdatatransferdll\cppdatatransferdll\classdef.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+    正在创建库 C:\Users\zhangheng\Desktop\数据交互\CppToC#\CppDataTransferDll\Debug\CppDataTransferDll.lib 和对象 C:\Users\zhangheng\Desktop\数据交互\CppToC#\CppDataTransferDll\Debug\CppDataTransferDll.exp
+CppDataTransferDll.exp : warning LNK4070: .EXP 中的 /OUT:CppDataTransferSDK.dll 指令与输出文件名“C:\Users\zhangheng\Desktop\数据交互\CppToC#\CppDataTransferDll\Debug\CppDataTransferDll.dll”不同；忽略指令
+  CppDataTransferDll.vcxproj -> C:\Users\zhangheng\Desktop\数据交互\CppToC#\CppDataTransferDll\Debug\CppDataTransferDll.dll
+  CppDataTransferDll.vcxproj -> C:\Users\zhangheng\Desktop\数据交互\CppToC#\CppDataTransferDll\Debug\CppDataTransferDll.pdb (Full PDB)

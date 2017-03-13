@@ -1,0 +1,6 @@
+C:\Users\zhangheng\Desktop\数据交互\CppToC#\CSharpReadData\CSharpReadData\bin\Debug\CSharpReadData.exe.config
+C:\Users\zhangheng\Desktop\数据交互\CppToC#\CSharpReadData\CSharpReadData\obj\Debug\CSharpReadData.csprojResolveAssemblyReference.cache
+C:\Users\zhangheng\Desktop\数据交互\CppToC#\CSharpReadData\CSharpReadData\bin\Debug\CSharpReadData.exe
+C:\Users\zhangheng\Desktop\数据交互\CppToC#\CSharpReadData\CSharpReadData\bin\Debug\CSharpReadData.pdb
+C:\Users\zhangheng\Desktop\数据交互\CppToC#\CSharpReadData\CSharpReadData\obj\Debug\CSharpReadData.exe
+C:\Users\zhangheng\Desktop\数据交互\CppToC#\CSharpReadData\CSharpReadData\obj\Debug\CSharpReadData.pdb

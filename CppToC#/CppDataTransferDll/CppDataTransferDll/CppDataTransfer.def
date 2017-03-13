@@ -1,0 +1,3 @@
+LIBRARY "CppDataTransferSDK.dll"  
+EXPORTS  
+SDK_LoadClassDataByMemory
